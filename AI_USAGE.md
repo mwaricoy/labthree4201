@@ -1,4 +1,7 @@
 # Part One: AI Code Solution
+
+##  Prompt: Using this FASTA file in my desktop I want you to write a code and give me a table in the chat to sort each sample (8 total) by, sample id, organism and gene. The file is messy as named so the other headers need to be cut off. 
+
 ```
 library(stringr)
 
