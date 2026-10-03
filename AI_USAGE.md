@@ -62,7 +62,7 @@ result <- data.frame(
 print(result)
 ```
 
-#Part Two: AI Assistance in my Code
+# Part Two: AI Assistance in my Code
 
 ## Model
 
