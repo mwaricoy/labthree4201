@@ -44,7 +44,7 @@ sample_id     organism  gene length_bp
 ### Where did they agree/disagree?
 As you can see, although the sample ID, organism, and gene columns agreed with eachother, the AI also kept the length of the base pairs within the table. The AI also added a another column for the gene sequences which is not what I instructed it to do. 
 ### Which caught edge cases the other missed?
-
+I am honestly confused as to what edge case in this lab is referring to. To the best of my understanding, the AI was easier to make a table because it did not need specific or rigid parameters to group the variables together. But the regex code was more accurate ultimately compared to the first pass of the AI solution. 
 
 ### Time/effort comparison: which was faster to get right?
 Although I only tried the AI solution once, I am sure if I told it again to leave out the base pair and sequence columns, it would give me the right table. My efforts would have taken muc longer than the AI to get to the same results. 
